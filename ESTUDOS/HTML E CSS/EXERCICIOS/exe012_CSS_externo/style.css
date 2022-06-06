@@ -1,0 +1,12 @@
+body{
+    background: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+h1{
+    color: blue;
+    font: 16px;
+}
+h2{
+    color: aqua;
+}
